@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is asleepa. I am a self-taught web, macro, and software developer since I was 10 years old. I am also working on improving my cybersecurity skills. Another hobby I enjoy is producing music using FL Studio and writing song lyrics when I have the time and inspiration.</p>
+<p align="left">My name is asleepa. I am a self-taught web, macro, and software developer since I was 10 years old. I am also working on improving my cybersecurity skills. Another hobby I enjoy is producing music using FL Studio and writing song lyrics when I have the time and inspiration. Currently learning Spanish.</p>
 
 ###
 
